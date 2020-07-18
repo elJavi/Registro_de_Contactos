@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Caracteristicas para las dos Activitys-->
+    <!--Padding-->
+    <dimen name="padding">15sp</dimen>
+
+
+    <!--Tamano de letra-->
+    <dimen name="textSize">25sp</dimen>
+
+    <!--Margen superior-->
+    <dimen name="margen_superior">30sp</dimen>
+
+    <!--Botones-->
+    <dimen name="boton_ancho">120dp</dimen>
+    <dimen name="boton_alto">48dp</dimen>
+
+
+    <!--Actividad de edicion-->
+
+    <!--Margen superior de Text View-->
+    <dimen name="margen_sup">20dp</dimen>
+</resources>

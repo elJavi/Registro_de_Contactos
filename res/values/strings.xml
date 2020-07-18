@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Registro de Contacto</string>
+
+    <!--Nombre-->
+    <string name="Nombre">Nombre</string>
+
+    <!--Elegir fecha-->
+    <string name="elegir_fecha">Elegir Fecha</string>
+    <string name="fecha_nacimiento">Fecha</string>
+
+    <!--Telefono-->
+    <string name="telefono">Telefono</string>
+
+    <!--Email-->
+    <string name="email">Email</string>
+
+    <!--Descripcion-->
+    <string name="descripcion">Descripcion</string>
+
+    <!--Boton Siguiente-->
+    <string name="siguiente">Siguiente</string>
+
+    <!--Boton Editar-->
+    <string name="editar">Editar Datos</string>
+
+
+    <!---->
+</resources>
